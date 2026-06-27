@@ -6,11 +6,11 @@ Portable all-in-one Windows PC monitor — single `.exe`, no installer, no accou
 
 ## Download
 
-Download from [GitHub Releases](https://github.com/GreyGodZilla59/GreyGodZilla-PC-Metrics/releases/tag/v1.0.0).
+Download from [GitHub Releases](https://github.com/GreyGodZilla59/GreyGodZilla-PC-Metrics/releases/latest).
 
-Or grab `GreyGodZilla PC Metrics.exe` from this release folder.
+**v1.0.1** — rebuilt without UPX to reduce antivirus false positives.
 
-**SHA256:** `E4E6C4703F974EBAD8B28D18C0E2B9F283A6F5C458D6B6372B983CA63DCC0C42`
+**SHA256:** `6CAFBF3305FC1ADD1CF9C0443732615216874CCDDBCB0D6283F44BC2F46551C3`
 
 ## Quick start
 
