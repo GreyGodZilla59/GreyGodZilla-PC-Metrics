@@ -8,9 +8,9 @@ Portable all-in-one Windows PC monitor — single `.exe`, no installer, no accou
 
 Download from [GitHub Releases](https://github.com/GreyGodZilla59/GreyGodZilla-PC-Metrics/releases/latest).
 
-**v1.0.1** — rebuilt without UPX to reduce antivirus false positives.
+**v1.0.2** — FPS accuracy and refresh-rate fix (streaming PresentMon + 50ms UI updates).
 
-**SHA256:** `6CAFBF3305FC1ADD1CF9C0443732615216874CCDDBCB0D6283F44BC2F46551C3`
+**SHA256:** `BED62CD0F4E79710E4817130B92E1CD99D55CF348EBEC957D9D0B473201F2240`
 
 ## Quick start
 
@@ -26,7 +26,7 @@ Windows SmartScreen may warn on first run — normal for unsigned indie apps.
 - CPU, GPU, RAM, VRAM, temps, power, disk I/O, network
 - Custom in-game overlay (drag fields, resize, themes)
 - Mini strip + fullscreen dashboard
-- FPS + frame-time stats (PresentMon bundled)
+- **Real-time FPS** + frame-time stats (PresentMon bundled)
 
 ### Cooling & profiles
 - Fan curves + presets (LibreHardwareMonitor bundled)
@@ -78,7 +78,7 @@ Windows SmartScreen may warn on first run — normal for unsigned indie apps.
 
 ## Feedback
 
-Open a [GitHub Issue](https://github.com/PLACEHOLDER/GreyGodZilla-PC-Metrics/issues) with:
+Open a [GitHub Issue](https://github.com/GreyGodZilla59/GreyGodZilla-PC-Metrics/issues) with:
 - GPU model + motherboard
 - Whether fan control appeared
 - Screenshots if overlay/UI looks wrong
