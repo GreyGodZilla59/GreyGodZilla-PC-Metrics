@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.3 — 2026-06-28
+
+- **Grey GodZilla** branding standardized across window title, tray, and settings
+- **Version badge** shown in the header next to the title (`v1.0.3`)
+- Window title now includes version: `Grey GodZilla PC Metrics v1.0.3`
+- Config path uses `%APPDATA%\GreyGodZilla\` (reads legacy `GreyGodzilla` if present)
+
 ## v1.0.2 — 2026-06-27
 
 - **FPS accuracy fix** — PresentMon now streams continuously instead of 1-second batch captures
@@ -14,13 +21,3 @@
 ## v1.0.0 — 2026-06-26
 
 Initial public release.
-
-### Highlights
-- Portable single-exe Windows PC monitor
-- Live dashboard, tray, customizable overlay
-- Fan curves + per-game profiles
-- Standalone benchmark with Score Book ratings
-- SMART storage, ping monitor, WHEA scan
-- Mini strip, fullscreen dashboard, streamer mode
-- HTML health report + screenshot with stats
-- CLI: `--benchmark`, `--self-test`

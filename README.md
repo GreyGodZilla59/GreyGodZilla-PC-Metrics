@@ -1,21 +1,21 @@
-# Grey Godzilla PC Metrics
+# Grey GodZilla PC Metrics
 
 Portable all-in-one Windows PC monitor — single `.exe`, no installer, no account.
 
-![Grey Godzilla](greygodzilla_logo.png)
+![Grey GodZilla](greygodzilla_logo.png)
 
 ## Download
 
 Download from [GitHub Releases](https://github.com/GreyGodZilla59/GreyGodZilla-PC-Metrics/releases/latest).
 
-**v1.0.2** — FPS accuracy and refresh-rate fix (streaming PresentMon + 50ms UI updates).
+**v1.0.3** — Grey GodZilla branding + version badge in the header.
 
-**SHA256:** `BED62CD0F4E79710E4817130B92E1CD99D55CF348EBEC957D9D0B473201F2240`
+**SHA256:** `16EEFBAC6C5431EFC3B380840AD121C15E0CBD3C258D40013FA2D21BF15F77B1`
 
 ## Quick start
 
 1. Download and unzip anywhere (Desktop, `C:\Tools`, etc.)
-2. Run `GreyGodZilla PC Metrics.exe`
+2. Run `Grey GodZilla PC Metrics.exe`
 3. Right-click the tray icon for overlay, benchmark, fans, and more
 
 Windows SmartScreen may warn on first run — normal for unsigned indie apps.
@@ -47,14 +47,14 @@ Windows SmartScreen may warn on first run — normal for unsigned indie apps.
 - 7 theme presets
 - Streamer mode
 - System tray quick actions
-- Config saved to `%APPDATA%\GreyGodzilla\`
+- Config saved to `%APPDATA%\GreyGodZilla\`
 
 ## Command line
 
 ```bat
-"GreyGodZilla PC Metrics.exe" --benchmark --quick
-"GreyGodZilla PC Metrics.exe" --benchmark
-"GreyGodZilla PC Metrics.exe" --self-test
+"Grey GodZilla PC Metrics.exe" --benchmark --quick
+"Grey GodZilla PC Metrics.exe" --benchmark
+"Grey GodZilla PC Metrics.exe" --self-test
 ```
 
 ## Requirements
@@ -66,15 +66,15 @@ Windows SmartScreen may warn on first run — normal for unsigned indie apps.
 ## Known limits
 
 - Windows only, portable exe (~52 MB)
-- Benchmark scores are Grey Godzilla–specific — not comparable to 3DMark or Cinebench
+- Benchmark scores are Grey GodZilla–specific — not comparable to 3DMark or Cinebench
 - GPU stress in benchmark is light; Score Book focuses on CPU, RAM, disk, and thermals
 
 ## Data locations
 
 | Path | Contents |
 |------|----------|
-| `%APPDATA%\GreyGodzilla\grey_godzilla_config.json` | Settings |
-| `%APPDATA%\GreyGodzilla\data\` | History, benchmarks, reports |
+| `%APPDATA%\GreyGodZilla\grey_godzilla_config.json` | Settings |
+| `%APPDATA%\GreyGodZilla\data\` | History, benchmarks, reports |
 
 ## Feedback
 
